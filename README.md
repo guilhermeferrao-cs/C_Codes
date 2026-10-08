@@ -1,2 +1,2 @@
 # C_Codes
-Repository of various codes in the C programming language.
+This is a repository of various C programs, made by me for studying.
